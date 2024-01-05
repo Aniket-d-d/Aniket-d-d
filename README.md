@@ -10,7 +10,7 @@ DevOps Enthusiast 🚀 with 2+ years of cloud experience, specializing in Big Da
 - 🔭 I’m currently working on AWS DevOps Project.
 - 🌱 I’m currently learning different AWS Services.
 - 💬 Ask me about CI/CD, Jenkins, Kubernetes.
-- 📫 How to reach me: [Linkdin](www.linkedin.com/in/aniketrkale)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/aniketrkale)
 
 ----
 
